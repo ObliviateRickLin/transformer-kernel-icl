@@ -1,10 +1,10 @@
 # transformer-kernel-icl
 
-This repository implements and partially reproduces the experiments from the paper:
+This repository unofficially implements and partially reproduces the experiments from the paper:
 
 **"Transformers Implement Functional Gradient Descent to Learn Non-Linear Functions In Context"**  
 Xiang Cheng, Yuxin Chen, Suvrit Sra  
-[arXiv:2306.11644](https://arxiv.org/abs/2306.11644)
+[arXiv:2312.06528v6](https://arxiv.org/abs/2312.06528v6)
 
 ## Overview
 
